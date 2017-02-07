@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Sith Academy</string>
+    <string name="general_text">
+        <![CDATA[
+
+                <h1>Welcome to The Goblin\'s Head </h1>
+                <h4><font color="#ffffff">Reserve your table today!</font></h4>
+
+                </br>
+                <p>The Goblin\'s Head is the pub in the otherwise un-named village where Sam
+                Vimes gets used to being Lord of the Manor and a real Squire because he owns the
+                place. Mine host is the suspiciously eager-to-please Jiminy, and Sam notes an
+                adornment of the wall, among all the legitimate hunting trophies, is a real goblin\'s head. </P>
+
+        ]]>
+    </string>
+    <string name="menu_text">
+        <![CDATA[
+
+                <h1>Our Menu</h1>
+                <h4><font color="#ffffff">The freshest products Ankh-Morpork can provide</font></h4>
+                </br>
+                <p>Discworld haute cuisine, in all it\'s glory. A simple rule for dining
+                on Discworld: if it\'s sold by anyone whose last name sounds a bit like "Dibbler", don\'t go near it. </P>
+                <p><i>We offer: <br>
+                    - Captain Eightpanther\'s Travellers\' Digestives <font color="#ffffff">$13.50</font><br>
+                    - Sausage-in-a-bun <font color="#ffffff">$5.99</font><br>
+                    - Milknut-meal <font color="#ffffff">$3.99</font><br>
+                    - Banged Grains <font color="#ffffff">$1.50</font><br>
+                    - Meatpie Floater <font color="#ffffff">$8.99</font><br>
+                    - Brownish Ale <font color="#ffffff">$1</font><br>
+                    - Root Beer <font color="#ffffff">$0.89</font><br></i>
+                </p>
+
+
+        ]]>
+    </string>
+
+    <string name="contact_text">
+        <![CDATA[
+
+                <big>How To Find Us</big>
+        ]]>
+    </string>
+
+    <string name="host_text">
+        <![CDATA[
+                <h2>Your Host</h2>
+                <p><b><font color="#ffffff">Samuel "Sam" Vimes</font></b> is a fictional policeman from Terry Pratchetts <i>Discworld</i> series.
+                Vimes is depicted in the novels as somewhere between an Inspector-Morse-type old-school British policeman,
+                and a film-noir-esque grizzled, jaded detective. <p>His appearances throughout the Discworld sequence
+                show him slowly and grudgingly rising through the ranks of both police force and society.</p>
+                <p>As of his latest promotion, his full name and title is: "<i>His Grace, His Excellency, The Duke of Ankh;
+                Commander Sir Samuel Vimes</i>"</p>
+                <p>When serving as Ambassador for Ankh-Morpork, he is also referred to simply as "<i>His Excellency</i>",
+                and is also nicknamed
+                "<i>Blackboard Monitor Vimes</i>", "Vimes the Butcher/Butcher Vimes" and "<i>Vetinari\'s Terrier</i>"
+                (or his <i>hammer</i>, depending upon the occasion): According to his wife, Sybil, Vimes
+                is recognised by many as Lord Vetinari\'s right-hand man.</p>
+
+
+
+        ]]>
+    </string>
+
+</resources>
