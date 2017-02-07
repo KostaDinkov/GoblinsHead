@@ -49,4 +49,4 @@ build an app for them!
 
 **License**
 
-This project is under the terms of the MIT license.
+This project is under the terms of the MIT [license](https://github.com/KostaDinkov/GoblinsHead/blob/master/license.md).
