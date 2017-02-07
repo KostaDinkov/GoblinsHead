@@ -1,4 +1,4 @@
-package com.example.android.sithacademy;
+package com.example.android.goblinshead;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

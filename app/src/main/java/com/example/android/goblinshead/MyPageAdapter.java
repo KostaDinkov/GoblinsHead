@@ -1,4 +1,4 @@
-package com.example.android.sithacademy;
+package com.example.android.goblinshead;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;

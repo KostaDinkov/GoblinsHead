@@ -1,4 +1,4 @@
-package com.example.android.sithacademy;
+package com.example.android.goblinshead;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -17,11 +17,11 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(com.example.android.goblinshead.R.layout.activity_main);
 
         List<Fragment> fragments = getFragments();
         pageAdapter = new MyPageAdapter(getSupportFragmentManager(), fragments);
-        ViewPager pager = (ViewPager) findViewById(R.id.viewpager);
+        ViewPager pager = (ViewPager) findViewById(com.example.android.goblinshead.R.id.viewpager);
         DisplayMetrics displaymetrics = new DisplayMetrics();
         getWindowManager().getDefaultDisplay().getMetrics(displaymetrics);
         int height = displaymetrics.heightPixels;
@@ -36,10 +36,10 @@ public class MainActivity extends AppCompatActivity {
 
         List<Fragment> fragments = new ArrayList<Fragment>();
 
-        fragments.add(MyFragment.newInstance(R.layout.page_general));
-        fragments.add(MyFragment.newInstance(R.layout.page_menu));
-        fragments.add(MyFragment.newInstance(R.layout.page_map));
-        fragments.add(MyFragment.newInstance(R.layout.page_about_host));
+        fragments.add(MyFragment.newInstance(com.example.android.goblinshead.R.layout.page_general));
+        fragments.add(MyFragment.newInstance(com.example.android.goblinshead.R.layout.page_menu));
+        fragments.add(MyFragment.newInstance(com.example.android.goblinshead.R.layout.page_map));
+        fragments.add(MyFragment.newInstance(com.example.android.goblinshead.R.layout.page_about_host));
         return fragments;
     }
 }

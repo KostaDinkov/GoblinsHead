@@ -1,4 +1,4 @@
-package com.example.android.sithacademy;
+package com.example.android.goblinshead;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.android.sithacademy;
+package com.example.android.goblinshead;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -26,7 +26,7 @@ public class MyFragment extends Fragment {
 
         int layoutResourceId = getArguments().getInt(LAYOUT_RESOURCE);
         View view = inflater.inflate(layoutResourceId, container, false);
-        TextView textView = (TextView) view.findViewById(R.id.info_text_view);
+        TextView textView = (TextView) view.findViewById(com.example.android.goblinshead.R.id.info_text_view);
         String text = (String) textView.getText();
         textView.setText((Html.fromHtml(text)));
         return view;
